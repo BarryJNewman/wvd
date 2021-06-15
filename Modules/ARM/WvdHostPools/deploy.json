@@ -119,7 +119,7 @@
         },
         "diagnosticStorageAccountId": {
             "type": "string",
-            "defaultValue": "wvddiag",
+            "defaultValue": "wvddiag22",
             "metadata": {
                 "description": "Optional. Resource identifier of the Diagnostic Storage Account."
             }
