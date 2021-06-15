@@ -209,7 +209,7 @@
             }
         },        
         "bootDiagnosticStorageAccountName": {
-            "defaultValue": "",
+            "defaultValue": "wvdsa22",
             "type": "String",
             "metadata": {
                 "description": "Optional. Storage account used to store boot diagnostic information."
